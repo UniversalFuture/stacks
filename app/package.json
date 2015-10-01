@@ -10,6 +10,12 @@
     "target": "development"
   },
   "dependencies": {
-    "fs-jetpack": "^0.7.0"
+    "bitcoin": "^2.4.0",
+    "fbjs": "^0.2.1",
+    "fs-jetpack": "^0.7.0",
+    "material-ui": "^0.12.1",
+    "react": "^0.13.3",
+    "react-dom": "^0.14.0-rc1",
+    "react-tap-event-plugin": "^0.1.8"
   }
 }
